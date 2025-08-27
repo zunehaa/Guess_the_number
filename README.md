@@ -13,7 +13,14 @@ A simple number-guessing game where the computer randomly selects a number withi
   - Python 3 (no external libraries required)
     
 ## Usage: 
-  Run the code:<br> [Run the code → GUESS THE NUMBER.py](./GUESS%20THE%20NUMBER.py)
+  Run the code:<br> [Run the code → GUESS THE NUMBER.py](./GUESS%20THE%20NUMBER.py) <br>
   Follow on-screen instructions and try to guess the secret number!
+
+## Future_uses:
+  - Add difficulty levels (easy, medium, hard)
+  - Allow the player to choose their own number range
+  - Add a scoreboard to track wins and losses
+  - Create a GUI version using Tkinter or PyQt
+  - Multiplayer mode where players compete to guess first
 
 ## License: MIT
