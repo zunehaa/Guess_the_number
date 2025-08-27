@@ -16,7 +16,7 @@ A simple number-guessing game where the computer randomly selects a number withi
 ## Technologies:
   - Python 3 (no external libraries required)
 ## Usage: 
-  Run the code:<br> [Run the code → guess_the_number.py](./GUESS_THE_NUMBER.py)
+  Run the code:<br> [Run the code → GUESS THE NUMBER.py](./GUESS%20THE%20NUMBER.py)
 
   Follow on-screen instructions and try to guess the secret number!
 
